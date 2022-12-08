@@ -1,1 +1,1 @@
-Happy New Year!
+Hello, Hexlet! How are you?
